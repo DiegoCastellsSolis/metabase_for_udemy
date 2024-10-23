@@ -1,9 +1,5 @@
 # Metabase NOVA-BI
-this repo containt info about metabase
-# Nombre del Proyecto
-
-## Descripción
-Una breve descripción de lo que hace el proyecto.
+this repo containt info about metabase 
 
 ## Índice
 - [Instalación](#instalación)
