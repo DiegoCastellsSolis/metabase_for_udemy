@@ -5,9 +5,7 @@ this repo containt info about metabase
 - [Descargar Repositorio](#download_repo)
 - [Instancas de Docker](#deploy_instances_docker)
 - [Importar Datos](#import_data)
-- [Modificar DB](#modify_names_tablas)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Modificar DB](#modify_names_tablas) 
 - [Contacto](#contact)
 
 ## download_repo
@@ -36,5 +34,5 @@ ALTER TABLE DB_ACTUAL.NOMBRE_ACTUAL RENAME TO NOMBRE_NUEVO;
 ```
 
 ## contact
-- **LinkedIn**: [https://www.linkedin.com/in/diego-castells-solis-9a2783201/](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn**: [https://www.linkedin.com/in/diego-castells-solis-9a2783201/](https://www.linkedin.com/in/diego-castells-solis-9a2783201/)
 - **Gmail**: [diegoosolis99@gmail.com](mailto:diegoosolis99@gmail.com)
