@@ -2,11 +2,17 @@
 this repo containt info about metabase 
 
 ## Índice
+- [Descargar Docker](#download_docker)
 - [Descargar Repositorio](#download_repo)
 - [Instancas de Docker](#deploy_instances_docker)
 - [Importar Datos](#import_data)
 - [Modificar DB](#modify_names_tablas) 
 - [Contacto](#contact)
+
+## download_docker
+Para descargar docker redirigete al siguiente [link](https://docs.docker.com/desktop/install/windows-install/)
+En mi caso elegi la version windows
+
 
 ## download_repo
 Instrucciones para instalar el proyecto:
