@@ -1,0 +1,10 @@
+docker-compose up
+
+http://localhost:3000/
+
+
+docker exec -it postgres psql -U postgres -d dw
+
+create schema staging
+create schema dw
+
