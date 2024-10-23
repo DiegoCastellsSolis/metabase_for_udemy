@@ -36,5 +36,5 @@ ALTER TABLE DB_ACTUAL.NOMBRE_ACTUAL RENAME TO NOMBRE_NUEVO;
 ```
 
 ## contact
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn**: [https://www.linkedin.com/in/diego-castells-solis-9a2783201/](https://www.linkedin.com/in/tu-perfil)
 - **Gmail**: [diegoosolis99@gmail.com](mailto:diegoosolis99@gmail.com)
