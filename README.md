@@ -10,7 +10,7 @@ this repo containt info about metabase
 - [Contacto](#contact)
 
 ## download_docker
-Para descargar docker redirigete al siguiente [link](https://docs.docker.com/desktop/install/windows-install/)
+Para descargar docker redirigete al siguiente [link](https://docs.docker.com/desktop/install/windows-install/).
 En mi caso elegi la version windows
 
 
